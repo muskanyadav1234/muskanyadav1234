@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @muskanyadav1234  
-- 👀 I’m interested in Frontend Development, AI/ML, and building cool web projects  
+- 👀 I’m interested in Web Development, AI/ML, and building cool web projects  
 - 🌱 I’m currently learning Deep Learning, React.js, and Data Structures & Algorithms  
 - 💞️ I’m looking to collaborate on open-source projects, AI tools, and creative UI/UX designs  
 - 📫 Reach me at: [Leetcode](https://leetcode.com/muskany123) | [Email](yadavmuskan67890@gmail.com)  | [Linkedin](https://www.linkedin.com/in/muskan-yadav-021462306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
